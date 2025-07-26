@@ -1,0 +1,15 @@
+pymupdf
+pillow
+pytesseract
+regex
+numpy
+scikit-learn
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+requests
+tiktoken
+notebook
+fastapi
+uvicorn
